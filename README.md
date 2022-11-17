@@ -1,1 +1,2 @@
-# die-or-live
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
